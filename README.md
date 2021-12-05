@@ -106,7 +106,7 @@
 ~~~
 ## OUPUT
 
-![github logo](timetable.png)
+![github logo](timetsble.png)
 
 ## Validation result:
 
