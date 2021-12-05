@@ -15,7 +15,7 @@
 
    # CODE
    ~~~
-      DOCTYPE html>
+      
    <html>
 
       <head>
@@ -105,6 +105,8 @@
    </html>
 ~~~
 ## OUPUT
+
+![github logo](timetable.png)
 
 ## Validation result:
 
